@@ -1,6 +1,6 @@
 # Gander
 
-**Gander** is a lightweight, high-performance web framework that pairs the memory-safe, heapless systems programming language **Goose** with a reactive **Vue 3** frontend engine. Designed for ultra-low latency, zero-allocation routing, and predictable resource usage, Gander gives you the speed of C-level execution alongside the developer experience of modern frontend tools.
+**Gander** is a lightweight, high-performance web framework that pairs the memory-safe, heapless systems programming language [**Goose**](https://aardappel.github.io/goose/) with a reactive [**Vue 3**](https://vuejs.org/) frontend engine. Designed for ultra-low latency, zero-allocation routing, and predictable resource usage, Gander gives you the speed of C-level execution alongside the developer experience of modern frontend tools.
 
 ---
 
